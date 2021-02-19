@@ -23,7 +23,7 @@ class Favorites extends Component {
 
 function mapStateToProps(state) {
 	return {
-		favorites: state.reducer.favrited
+		favorites: state.reducer.favorited
 	};
 }
 
